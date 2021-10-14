@@ -6,13 +6,21 @@ It also has an admin page where you can get a list of all users and delete anyon
 
 ## Dependencies
 axios
+
 bootstrap
+
 react
+
 react-bootstrap
+
 react-dom
+
 react-router
+
 react-router-dom
+
 react-scripts
+
 web-vitals
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
