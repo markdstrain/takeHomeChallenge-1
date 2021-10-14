@@ -5,22 +5,15 @@ a simple homepage where you can delete your profile or edit it.
 It also has an admin page where you can get a list of all users and delete anyone them.
 
 ## Dependencies
-*axios
-*bootstrap
-
-react
-
-react-bootstrap
-
-react-dom
-
-react-router
-
-react-router-dom
-
-react-scripts
-
-web-vitals
+axios. 
+bootstrap. 
+react. 
+react-bootstrap. 
+react-dom. 
+react-router. 
+react-router-dom. 
+react-scripts. 
+web-vitals. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
