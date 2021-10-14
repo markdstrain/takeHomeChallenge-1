@@ -5,9 +5,8 @@ a simple homepage where you can delete your profile or edit it.
 It also has an admin page where you can get a list of all users and delete anyone them.
 
 ## Dependencies
-axios
-
-bootstrap
+*axios
+*bootstrap
 
 react
 
