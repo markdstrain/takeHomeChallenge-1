@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+## Overview
+This is the front end part of Yodlr's challenge.  https://github.com/rithmschool/yodlr-take-home# Getting Started with Create React App
+I'm not sure what they were asking for as far as routes go but in this application you can signin and it will take you to
+a simple homepage where you can delete your profile or edit it.
+It also has an admin page where you can get a list of all users and delete anyone them.
+
+## Dependencies
+axios
+bootstrap
+react
+react-bootstrap
+react-dom
+react-router
+react-router-dom
+react-scripts
+web-vitals
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
